@@ -9,14 +9,12 @@ END_DATE = datetime(2023, 12, 31)
 
 # Define the list of tasks
 TASKS = [
-    "Exercise (Morning)",
-    "Meditation",
     "Library",
-    "GenAI Project",
+    "Trading_GenAI Project",
     "Kaggle",
     "DSA (1 Chapter Only)",
     "AI (3 hours)",
-    "Exercise (Evening)",
+    "Exercise",
     "Brahmacharya"
 ]
 
